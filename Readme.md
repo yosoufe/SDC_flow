@@ -1,3 +1,6 @@
 #Self Driving Course
 ===============
-Following the topics in: https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.s1nf6fysy
+
+This page contains all the practices for the projects of the Self-Driving Car Nandegree program by (Udacity)[https://www.udacity.com/drive].
+
+0. (Line Lane Project)[https://github.com/yosoufe/SDC_flow/blob/master/Lane%20Detection.ipynb]
